@@ -2,7 +2,7 @@
 ### Data of this project is download from -[kaggle](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data)
 
 
-###🌍 Goal:
+### 🌍 Goal:
 This project aims to forecast the unit sale in the retail by time-series analysis to model past sales parrtens and identify recurring trends and make informed predictions about future demand. 
 
 ### 🌍Descriptions:
