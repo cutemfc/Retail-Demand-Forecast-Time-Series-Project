@@ -1,7 +1,6 @@
-# Retail_demad_Forecast-Time-Series-Project-
+# 🎇🎢🎢🎢🎆🎆🎆🎆🎆🎆🎆🎆Retail_demad_Forecast-Time-Series-Project-
 ### Data of this project is download from -[kaggle](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data)
 
-### The Forecast app is in the website-[stream](https://asn-tables-asthma-older.trycloudflare.com/)
 
 ### Goal:
 This project aims to forecast the unit sale in the retail by time-series analysis to model past sales parrtens and identify recurring trends and make informed predictions about future demand. 
