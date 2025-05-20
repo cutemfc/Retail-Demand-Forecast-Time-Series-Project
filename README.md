@@ -3,7 +3,7 @@
 
 
 ### 🌍 Goal:
-This project aims to forecast the unit sale in the retail by time-series analysis to model past sales parrtens and identify recurring trends and make informed predictions about future demand. 
+This project aims to forecast retail unit sale using time-series analysis, modelling past sales patterns to identify recurring trends and generate informed predictions about future demand. 
 
 ### 🌍Descriptions:
 The project involves forecasting unit sales in the Guayas region for the period from January 1 to March 31, 2014, using various time series models including Exponential Smoothing, ARIMA, SARIMA, XGBoost (with hyperparameter tuning), LSTM, and the Prophet model.
