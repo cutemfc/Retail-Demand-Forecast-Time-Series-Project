@@ -1,4 +1,4 @@
-# 🎇Retail_demad_Forecast-Time-Series-Project-
+# 🎇Retail Demand Forecast (Time Series Project)
 ### Data of this project is download from -[kaggle](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data)
 
 
