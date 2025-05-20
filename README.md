@@ -1,11 +1,11 @@
-# 🎇🎢🎢🎢🎆🎆🎆🎆🎆🎆🎆🎆Retail_demad_Forecast-Time-Series-Project-
+# 🎇Retail_demad_Forecast-Time-Series-Project-
 ### Data of this project is download from -[kaggle](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data)
 
 
-### Goal:
+###🌍 Goal:
 This project aims to forecast the unit sale in the retail by time-series analysis to model past sales parrtens and identify recurring trends and make informed predictions about future demand. 
 
-### Descriptions:
+### 🌍Descriptions:
 The project involves forecasting unit sales in the Guayas region for the period from January 1 to March 31, 2014, using various time series models including Exponential Smoothing, ARIMA, SARIMA, XGBoost (with hyperparameter tuning), LSTM, and the Prophet model.
 
 Additionally, a forecast application was developed using Streamlit, allowing users to input the store number, item number, and prediction date, and view the forecast results, visualizations, and evaluation metrics.
@@ -24,7 +24,7 @@ Developed a retail sales forecast application using Streamlit, powered by an XGB
 Users can input the store number, item number, and desired forecast date. The app predicts unit sales and provides visualizations of historical and forecasted data.
 The model's performance is evaluated using multiple metrics, including RMSE (Root Mean Square Error), RMAD (Root Mean Absolute Deviation), MAPE (Mean Absolute Percentage Error), and R² (Coefficient of Determination).
 
-### Skills:
+### 🌍Skills:
 
 Data cleaning and transformation (Pandas, NumPy)
 
