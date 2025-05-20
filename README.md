@@ -27,6 +27,7 @@ Developed a retail sales forecast application using Streamlit, powered by an XGB
 Users can input the store number, item number, and desired forecast date. The app predicts unit sales and provides visualizations of historical and forecasted data.
 The model's performance is evaluated using multiple metrics, including RMSE (Root Mean Square Error), RMAD (Root Mean Absolute Deviation), MAPE (Mean Absolute Percentage Error), and R² (Coefficient of Determination).
 
+![Forecast App Screenshot](https://github.com/user-attachments/assets/ca685c74-00a5-43a0-a0f2-49f2b1c8e5ba)
 
 ### 🌍Skills:
 
@@ -45,6 +46,6 @@ Data visualization (Matplotlib, Seaborn, Streamlit)
 Forecast model evaluation (RMSE, RMAD, MAPE, R²)
 
 Interactive web app development (Streamlit)
-![image](https://github.com/user-attachments/assets/8cd89ed7-b045-4dcb-8fdc-a35549b2b537)
+
 
 
