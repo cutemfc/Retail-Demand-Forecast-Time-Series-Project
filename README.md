@@ -47,7 +47,6 @@ The model's performance is evaluated using multiple metrics, including RMSE (Roo
 
 8.Interactive web app development (Streamlit)
 
-![image](https://github.com/user-attachments/assets/be7c7513-78fc-49ff-af70-d02838057124)
 
 ### Insight:
 1.Exploratory data analysis revealed that holidays and the perishability of items significantly impact unit sales.
