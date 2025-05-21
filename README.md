@@ -27,7 +27,7 @@ Developed a retail sales forecast application using Streamlit, powered by an XGB
 Users can input the store number, item number, and desired forecast date. The app predicts unit sales and provides visualizations of historical and forecasted data.
 The model's performance is evaluated using multiple metrics, including RMSE (Root Mean Square Error), RMAD (Root Mean Absolute Deviation), MAPE (Mean Absolute Percentage Error), and R² (Coefficient of Determination).
 
-![Forecast App Screenshot](https://github.com/user-attachments/assets/ca685c74-00a5-43a0-a0f2-49f2b1c8e5ba)
+![App Screenshot](https://github.com/user-attachments/assets/ca685c74-00a5-43a0-a0f2-49f2b1c8e5ba)
 
 ### 🌍Skills:
 
@@ -49,17 +49,17 @@ The model's performance is evaluated using multiple metrics, including RMSE (Roo
 
 ![image](https://github.com/user-attachments/assets/be7c7513-78fc-49ff-af70-d02838057124)
 
-### Insight
+### Insight:
 1.Exploratory data analysis revealed that holidays and the perishability of items significantly impact unit sales.
 
 2.The naive model served as a baseline, while XGBoost achieved the best performance with a mean absolute percentage error (MAPE) of 9.49% and an R² score of 0.59.
 
-3. Hyperparameter tuning further improved the predictive accuracy of the XGBoost model.
+3.Hyperparameter tuning further improved the predictive accuracy of the XGBoost model.
 
 4.A Streamlit app was developed to provide an interactive interface for forecasting future sales and anticipating customer demand.
 
 
-###
+### Presentation
 [Presentation](https://youtu.be/zcPRyP_dtSE)
 
 
