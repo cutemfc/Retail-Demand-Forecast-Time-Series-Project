@@ -31,21 +31,21 @@ The model's performance is evaluated using multiple metrics, including RMSE (Roo
 
 ### 🌍Skills:
 
-Data cleaning and transformation (Pandas, NumPy)
+1.Data cleaning and transformation (Pandas, NumPy)
 
-Exploratory data analysis and descriptive statistics
+2.Exploratory data analysis and descriptive statistics
 
-Outlier detection and handling (z-score)
+3.Outlier detection and handling (z-score)
 
-Time-series modeling (Exponential Smoothing, ARIMA, SARIMA, Prophet)
+4.Time-series modeling (Exponential Smoothing, ARIMA, SARIMA, Prophet)
 
-Machine learning for time-series (XGBoost with hyperparameter tuning, LSTM)
+5.Machine learning for time-series (XGBoost with hyperparameter tuning, LSTM)
 
-Data visualization (Matplotlib, Seaborn, Streamlit)
+6.Data visualization (Matplotlib, Seaborn, Streamlit)
 
-Forecast model evaluation (RMSE, RMAD, MAPE, R²)
+7.Forecast model evaluation (RMSE, RMAD, MAPE, R²)
 
-Interactive web app development (Streamlit)
+8.Interactive web app development (Streamlit)
 
 ![image](https://github.com/user-attachments/assets/be7c7513-78fc-49ff-af70-d02838057124)
 
